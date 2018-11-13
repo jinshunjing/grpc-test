@@ -1,0 +1,8 @@
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloReply.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloServer.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/GreeterGrpc.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloProto.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloRequest.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloRequestOrBuilder.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloReplyOrBuilder.java
+/Users/jim/github/grpctest/grpc/src/main/java/org/jim/grpc/hello/HelloClient.java
